@@ -40,3 +40,19 @@ Restart the system to check if the service started on reboot
 
 To check whether the service is running, run the following command in terminal
 >rostopic list
+
+
+## Using rc.local
+
+Run the below command to create the file
+>sudo nano /etc/rc.local
+
+```
+#! /bin/bash
+//path-to-your-bash-script
+exit 0```
+
+**Refer previous method for creating shell script
+**
+Make it executable by following Command
+>chmod +x /etc/rc.local
