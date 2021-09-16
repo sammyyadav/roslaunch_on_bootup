@@ -47,6 +47,8 @@ To check whether the service is running, run the following command in terminal
 Run the below command to create the file
 >sudo nano /etc/rc.local
 
+Enter the below code in the [rc.local](rc.local) file
+
 ```
 #! /bin/bash
 //path-to-your-bash-script
