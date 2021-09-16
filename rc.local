@@ -1,0 +1,3 @@
+#! /bin/sh -e
+//path-to-your-bash-script-<eg>-/home/sammy-ros/.startup/auto_start.sh
+exit 0
