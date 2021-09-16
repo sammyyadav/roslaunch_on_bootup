@@ -12,7 +12,7 @@ Create a Shell Script in
 
 >nano /auto_start.sh
 
-Copy the code from auto_start.sh and paste it in  your shell script file
+Copy the code from [auto_start.sh](auto_start.sh) and paste it in  your shell script file
 
 
 Set File Permission
