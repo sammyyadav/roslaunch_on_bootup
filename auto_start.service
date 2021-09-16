@@ -1,0 +1,17 @@
+[Unit]
+# After=network.service 
+Description=My App
+
+[Service]
+Type=simple
+
+#Enter the the file to be executed 
+
+ExecStart=/path/to/shell/scrip/file
+#eg. ExecStart=/home/sammy-ros/.startup/auto_start.sh
+# User=do-user
+
+[Install]
+
+WantedBy=multi-user.target
+# WantedBy=default.target
