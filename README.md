@@ -4,7 +4,7 @@ Create a Service File for auto Start Up using the below Command.
 
 > sudo nano /etc/systemd/system/auto_start.service
 
-Copy the code from auto_start.service and paste it in  your service file
+Copy the code from [auto_start.service](auto_start.service) and paste it in  your service file
 
 Create a Shell Script in 
 
