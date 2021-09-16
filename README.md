@@ -51,7 +51,7 @@ Enter the below code in the [rc.local](rc.local) file
 
 ```
 #! /bin/bash
-//path-to-your-bash-script
+//path-to-your-shell-script
 exit 0
 ```
 
