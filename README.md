@@ -50,9 +50,10 @@ Run the below command to create the file
 ```
 #! /bin/bash
 //path-to-your-bash-script
-exit 0```
+exit 0
+```
 
-**Refer previous method for creating shell script
-**
+**Refer previous method for creating shell script**
+
 Make it executable by following Command
 >chmod +x /etc/rc.local
